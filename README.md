@@ -67,7 +67,7 @@ MonkeyFeast
 1. Clone repository
 
 ```bash
-git clone https://github.com/username/monkey-feast.git
+git clone https://github.com/halimmwn/MonkeyFeast-Mediapipe.git
 ```
 
 2. Buka menggunakan **Unity Hub**
