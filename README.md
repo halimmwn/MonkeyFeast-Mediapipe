@@ -117,14 +117,12 @@ Tujuan dari pengembangan **Monkey Feast** adalah:
 
 # 👨‍💻 Developer
 
-Lukman Hakim Badawi
-Ahmad Nur Fuady
-Mohammad Satria Halim Wicaksana
-Herlina Dewiyanti
+* Lukman Hakim Badawi
+* Ahmad Nur Fuady
+* Mohammad Satria Halim Wicaksana
+* Herlina Dewiyanti
 ---
 
 # 📄 License
 
 Project ini dibuat untuk **Tugas Akhir Matakuliah Piranti Muletimedia Interaktif**.
-
-💡 **Saran Lucy biar README kamu terlihat level TA / portfolio GitHub keren:*
